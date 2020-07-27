@@ -1,0 +1,54 @@
+
+
+.cards{
+  
+  margin:3em;
+  
+}
+.play Button{
+  margin-left:2em;
+  
+}
+
+.dropdown{
+  margin: 1em;
+  margin-left: 4em;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.header-icons{
+  margin-right: 4em;
+}
+#profile-icon{
+  font-size: 1.7em;
+  margin:0.5em;
+  margin-top: 0.7em;
+ 
+}
+.button{
+     padding:5px;
+     margin:0;
+}
+.welcome-content{
+  height:20em;
+  text-align: justify;
+  margin-top: 2em;
+  margin-left: 4em;
+  margin-right: 4em;
+  word-spacing:5px;
+  line-height: 1.7em;
+  border:1px solid lightgray;
+  padding:3em;
+  background-image: linear-gradient(to bottom right,lightgray,gray);
+
+}
+.welcome-img{
+  display: flex;
+  justify-content: space-between;
+}
+#img{
+  margin-left: 3em;
+}
+
